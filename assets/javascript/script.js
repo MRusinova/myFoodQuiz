@@ -27,3 +27,4 @@ function result() {
     }
     alert('your score is: '+score);
 }
+
