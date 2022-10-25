@@ -9,36 +9,42 @@
 </head>
 <body>
     <div class="container">
-        Q1 'Which type of beans are used to make baked beans?'<hr>
-        <input type="radio" name="question1">Borlotti beans<br>
-        <input type="radio" name="question1" id="correct1" class="correct">Haricot beans<br>
-        <input type="radio" name="question1">Cannellini beans<br>
-        <input type="radio" name="question1">Flageolet beans<br>
-        <button class="next" onclick="next(1)">Next</button>
+         Which type of beans are used to make baked beans?<hr>
+        <input type="radio" name="question1" class="options">Borlotti beans<br>
+        <input type="radio" name="question1" id="correct1" class="correct" class="options">Haricot beans<br>
+        <input type="radio" name="question1" class="options">Cannellini beans<br>
+        <input type="radio" name="question1" class="options">Flageolet beans<br>
+        <button class="next" onclick="next(1)" class="options">Next</button>
     </div>
     <div class="container">
-        Q2 What does IPA stand for?<hr>
+         What does IPA stand for?<hr>
         <input type="radio" name="question2">Intensely potent ale<br>
         <input type="radio" name="question2" id="correct2" class="correct">India pale ale<br>
         <input type="radio" name="question2">India premium ale<br>
         <input type="radio" name="question2">International porter association<br>
+        <button class="previous" onclick="previous(1)">Previous</button>
         <button class="next" onclick="next(2)">Next</button>
+        
     </div>
     <div class="container">
-        Q3 Bobotie is the national dish of which country?<hr>
+         Bobotie is the national dish of which country?<hr>
         <input type="radio" name="question3">Nigeria<br>
         <input type="radio" name="question3">Ethiopia<br>
         <input type="radio" name="question3" id="correct3" class="correct">South Africa<br>
         <input type="radio" name="question3">Kenya<br>
+        <button class="previous" onclick="previous(2)">Previous</button>
         <button class="next" onclick="next(3)">Next</button>
+        
     </div>
     <div class="container">
-        Q4 Which year did The Great British Bake Off first appear on TV?<hr>
+         Which year did The Great British Bake Off first appear on TV?<hr>
         <input type="radio" name="question4">2009<br>
         <input type="radio" name="question4" id="correct4" class="correct">2010<br>
         <input type="radio" name="question4">2011<br>
         <input type="radio" name="question4">2012<br>
+        <button class="previous" onclick="previous(3)">Previous</button>
         <button onclick="result()">Submit Quiz</button>
+        
     </div>
     <script src="assets/javascript/script.js"></script>
 </body>
