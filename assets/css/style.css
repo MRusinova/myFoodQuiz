@@ -1,3 +1,5 @@
+
+/* Adding and positioning of the background image*/
 body {
     background-image: url(../images/background.jpg);
     background-repeat: no-repeat;
@@ -9,6 +11,9 @@ body {
     align-items: center;
     
 }
+
+/* Style of the container and positioning of contents*/
+
 .container {
     padding: 20px;
     height: 50%;
@@ -26,7 +31,30 @@ body {
 
 }
 
-.options {
-    padding: 20px;
+/* Styling and positioning of the previous button*/
+
+.previous {
+    padding: 5px;
+    border: 2px solid;
+    border-radius: 10%;
+    margin: 20px;
 }
+
+/* Styling and positioning of the next button*/
+
+.next {
+    padding: 5px;
+    border: 2px solid;
+    border-radius: 10%;
+    margin: 20px;
+}
+
+/*Styling and positioning of the submit button*/
+.submit {
+    padding: 5px;
+    border: 2px solid;
+    border-radius: 10%;
+    margin: 20px;
+}
+
 
