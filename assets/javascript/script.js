@@ -9,6 +9,13 @@ function next(id) {
     document.getElementsByClassName("container")[id].style.display = "block";
 }
 
+// Function for previous button
+function previous(id) {
+    document.getElementsByClassName("container")[id].style.display = "none";
+    document.getElementsByClassName("container")[id-1].style.display = "block";
+}
+
+
 // Getting the final result
 
 function result() {
