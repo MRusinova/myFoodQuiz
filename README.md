@@ -31,3 +31,16 @@ I fixed both and as of now there is no more errors
 
 ## Media
 <li> Background image was taken from (https://www.pexels.com/)
+
+## Content
+<li> Tutorial Bee Coder on youtube https://www.youtube.com/watch?v=j9Elj5Sxfug&t=463s
+<li> For the styling used a lot of code from my previous project St. Michael's Centre https://mrusinova.github.io/st-michaels/
+<li> Questions and answers taken from https://www.bbcgoodfood.com/howto/guide/food-quiz
+
+## Deployment
+<li> The site was deployed to GitHub pages. The steps to deploy are as follows:
+<li> In the GitHub repository, navigate to the Settings tab
+<li> From the source section drop-down menu, select the Master Branch
+ <li>Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+ The live website can be seen here: https://mrusinova.github.io/myFoodQuiz/
