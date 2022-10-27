@@ -40,6 +40,10 @@ Three unused variables
 13	previous
 21	result
 
+<li> Lighthouse result scanning are as follows:
+
+<img src="assets/images/readme/lighthouse.png" alt="">
+
 ## Unfixed bugs
 <li> I could not figure out why those functions came up as unused as I am using them for the next, previous and submit quiz buttons.
 
