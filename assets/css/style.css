@@ -11,7 +11,7 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 130em;
-    height: 44em;
+    height: 40em;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,23 +71,24 @@ body {
     
 .container {
         width:400px;
-        height: 15em;
+        height: 30em;
         margin-left: 180px;
         margin-right: 3em;
         margin-top: 30em;
         margin-bottom: 60px;
         padding: 10em 60px 180px 60px;
         background-size: 400em;
-        font-size: 2em;
+        font-size: 1em;
 }
 
 body {
     background-image: url(../images/background.jpg);
     background-position: center center;
     background-attachment: fixed;
-    background-repeat: no-repeat; background-size: 300rem;
+    background-repeat: no-repeat; background-size: 215rem;
     
 }
+
 
 /* Media queries for smart phone size screens */
 
@@ -96,20 +97,20 @@ body {
 /* General */
     
 html, body {
-    background-size: 215em;
+    background-size: 185em;
     width: 100%;
-    height: 80em;
+    height: 50em;
 
     }
 
 .container {
-    height: 20em;
+    height: 32em;
     width: 27em;
     margin-right: 250px;
-    margin-top: 13em;
+    margin-top: 7em;
     padding: 20px 20px 170px 20px;
     text-align: center;
-    font-size: 3em;
+    font-size: 1em;
     }
 }
 }
