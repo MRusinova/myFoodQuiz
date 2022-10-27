@@ -25,7 +25,23 @@
 1: I had background-color: cover;
 2: Forgot a curly brace at the end of media query
 I fixed both and as of now there is no more errors
-<li>JShint
+<li>JShint 
+<li> Metrics
+There are 3 functions in this file.
+
+Function with the largest signature take 1 arguments, while the median is 1.
+
+Largest function has 22 statements in it, while the median is 2.
+
+The most complex function has a cyclomatic complexity value of 11 while the median is 1.
+
+Three unused variables
+7	next
+13	previous
+21	result
+
+## Unfixed bugs
+<li> I could not figure out why those functions came up as unused as I am using them for the next, previous and submit quiz buttons.
 
 ## Credits
 
