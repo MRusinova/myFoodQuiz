@@ -30,7 +30,7 @@ I fixed both and as of now there is no more errors
 ## Credits
 
 ## Media
-<li> Background image was taken from (https://www.pexels.com/) I choose a chopping board background image as its a food quiz
+<li> Background image was taken from (https://www.pexels.com/) I choose a chopping board background image as its a food quiz.
 
 ## Content
 <li> Tutorial Bee Coder on youtube https://www.youtube.com/watch?v=j9Elj5Sxfug&t=463s

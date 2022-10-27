@@ -11,7 +11,7 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 140em;
-    height: 40em;
+    height: 35em;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,6 +65,17 @@ body {
 }
 
 /* Media queries*/
+
+/* Media queries for large screen sizes*/
+
+@media screen and (max-width: 1920px){
+    
+    body {
+        background-size: 240em;
+    }
+}
+
+/* Media queries for tablet size screens*/
 
 @media screen and (max-width: 1200px) {
 
