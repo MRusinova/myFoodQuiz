@@ -124,7 +124,7 @@ html, body {
 
 .container {
     
-    height: 26em;
+    height: 100%;
     width: auto;
     margin-right: 250px;
     margin-top: 7em;
